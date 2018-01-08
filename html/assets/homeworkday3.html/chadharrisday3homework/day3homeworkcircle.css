@@ -1,0 +1,55 @@
+body {
+  background-color: white;
+}
+
+table
+ {
+  border: 0 solid black;
+  border-radius: 500px 500px;
+  background-color: white;
+  margin: auto;
+  color: red;
+  height: 500px;
+  width: 500px;
+  border-collapse: collapse;
+
+}
+
+ table td {
+  border: 0 solid black;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+#red {
+  color: black;
+  background-color: red;
+  border-top-left-radius: 499px;
+  text-align: center;
+  border-right: 500px;
+  width: 244px;
+}
+
+#yellow {
+  color: black;
+  background-color: yellow;
+  border-top-right-radius: 499px;
+  text-align: center;
+
+}
+
+#green {
+  color: black;
+  background-color: green;
+  border-bottom-right-radius: 499px;
+  text-align: center;
+
+}
+
+#blue {
+  color: black;
+  background-color: blue;
+  border-bottom-left-radius: 499px;
+  text-align: center;
+
+}

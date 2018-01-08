@@ -1,0 +1,102 @@
+hr {
+  border-color: black;
+}
+
+
+#body {
+  background-color: Chocolate;
+}
+
+
+#name {
+  font-family:ELRIOTT2;
+  font-size: 150px;
+  text-align: center;
+  background-color: black;
+  color: yellow;
+}
+
+.panel-heading {
+  background-color: orange;
+}
+
+#h3 {
+  color: gold;
+  text-align: center;
+}
+
+#secondh3 {
+  color: yellow;
+  margin-top: 35px;
+}
+
+#salsa_bar {
+  color: red;
+  font-style: oblique;
+  font-size: 50px;
+  padding: inherit;
+  text-align: center;
+}
+
+#p1 {
+  color: gold;
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: center;
+  padding: inherit;
+  margin-top: 10%;
+}
+
+#mexican_food {
+  float: right;
+  width: 100%;
+  border-width: medium;
+  border-color: blue;
+}
+
+.well {
+  padding: 0;
+  border: none;
+}
+
+#h2  {
+  color: DarkMagenta;
+}
+
+#nav {
+  background-color: cyan;
+}
+
+#top_container {
+  background-color: DarkBlue;
+  padding: 0;
+}
+
+#container {
+  background-color: DarkRed;
+}
+
+#last {
+  background-color: GreenYellow;
+}
+
+#p {
+  color: white;
+  margin-top: 75px;
+}
+
+#experience {
+  color: FireBrick;
+}
+
+#dinnertable {
+  width: 100%;
+}
+
+#hr {
+  border-color: blue;
+}
+
+#hr1 {
+  border-color: DarkRed;
+}
