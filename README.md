@@ -1,1 +1,1 @@
-This is a repository of all of the html work we did in TTS.
+This is a repository of the html work we did in TTS.
